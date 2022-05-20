@@ -1,0 +1,10 @@
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\bin\Debug\net6.0\PlotlyNetHelper.deps.json
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\bin\Debug\net6.0\PlotlyNetHelper.dll
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\bin\Debug\net6.0\PlotlyNetHelper.pdb
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\bin\Debug\net6.0\PlotlyNetHelper.xml
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.fsproj.AssemblyReference.cache
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.AssemblyInfoInputs.cache
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.AssemblyInfo.fs
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.dll
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.xml
+C:\Users\Qburst\source\repos\CreditCardTheftDetector\PlotlyNetHelper\obj\Debug\net6.0\PlotlyNetHelper.pdb
